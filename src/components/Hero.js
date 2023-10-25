@@ -13,7 +13,7 @@ import Wave from "react-wavify";
 import { WAVE_COLOR } from "../utils";
 import Mediabox from "./MediaBox";
 
-const meDescriptors = ["a software developer."];
+// const meDescriptors = ["a software developer."];
 
 const Hero = () => {
   const [isLargerThan1280] = useMediaQuery("(min-width: 720px)");
