@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #89CFF0;
+}
+
+body {
+  overflow-x: hidden
+}
+
+.vertical-timeline-element-date {
+  font-weight: bolder !important;
+  align-items: center !important;
+}
+
+body::-webkit-scrollbar {
+  width: 0.75rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #6c88e1;
+  border-radius: 10px;
+}
