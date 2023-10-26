@@ -1,2 +1,2 @@
-export const WAVE_COLOR="#89CFF0"
+export const WAVE_COLOR="#3764f7"
 
