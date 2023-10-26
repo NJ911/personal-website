@@ -5,10 +5,10 @@ const Footer = () => {
   return (
     <Center flexDirection="column" paddingTop="3vh">
       <Text fontSize="smaller" as="b">
-        Created by Udbhav Agarwal
+        Created by Neeraj Amalath
       </Text>
       <Text fontSize="smaller" as="b">
-        Last updated October 2022
+        Last updated October 2023
       </Text>
     </Center>
   );

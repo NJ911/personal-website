@@ -27,55 +27,35 @@ const techColors = {
 
 const projectList = [
   {
-    name: "Personal Website v1",
-    date: "Jul 2022 - present",
+    name: "Personal Website",
+    date: "Sept 2023 - Present",
     descriptionPoints: [
       "Designed and built a personal portfolio website using React, HTML/CSS and JavaScript",
-      "Used Git to manage and update the code for my website and automated the deployment of the app to the web with every new commit to the codebase",
+      "Used Git to manage and update the code for my website and automated the deployment of the app to the web using netlify with every new commit to the codebase",
     ],
     githubLink: "https://github.com/Udbhav8/portfolio",
     technologies: ["HTML/CSS", "JavaScript", "React"],
   },
   {
-    name: "NFT app",
-    date: "Nov 2022 - Dec 2022",
-    descriptionPoints: [
-      "Implemented the oauth flow allowing users to login and claim free NFTs",
-      "Built a sample app to showcase a basic working application of NFT’s and how they can be created easily usingopen source APIs",
-    ],
-    githubLink: "https://github.com/Niftory/niftory-samples",
-    technologies: ["Niftory APIs", "React", "Node.js", "NextAuth", "GraphQL"],
-  },
-  {
-    name: "Instant Messenger",
+    name: "Limited Drops Bot",
     date: "Jan 2022 - March 2022",
     descriptionPoints: [
-      "Developed a web messaging app which allows users to start chats with other users using their emails",
-      "Used frameworks like Next.js and Chakra UI to build the user interface of the app and Firebase Real time Database to build the backend",
+      "Wrote a script in Python to automate buying limited items from a website of my choice ",
+      "Used Selenium to automate and navigate through the website",
     ],
-    githubLink: "https://github.com/Udbhav8/MessagingApp",
-    technologies: ["React", "Next.js", "Chakra UI", "Firebase", "TypeScript"],
+    //githubLink: "https://github.com/Udbhav8/MessagingApp",
+    technologies: ["Python", "Selenium"],
   },
   {
-    name: "Team Management App",
-    date: "May 2022 - Aug 2021",
+    name: "University Website Integration",
+    date: "Jan 2023 - May 2023",
     descriptionPoints: [
-      "Built a team management app for a local restaurant allowing them to manage their employees and their shifts",
-      "The Front-end was build using React and Chakra UI, allowing users to add manage and delete users according to their needs",
-      "Built a REST API using Django which served as a backend for the web app",
+      "Designed a prototype to integrate a webpage to an existing university website",
+      "The prototype was made using Figma",
+      "We created and tested the prototype on students to make improvements to the design",
     ],
-    githubLink: "https://github.com/Udbhav8/usersAppFrontend",
-    technologies: ["React", "Django", "Firebase", "Python"],
-  },
-  {
-    name: "MintMe No-Code Minter",
-    date: "Aug 2022 - Present",
-    descriptionPoints: [
-      "Designed and developed an immersive, user-friendly NFT mint tool utilizing the Niftory API and leveraging Dapper Labs’ Flow blockchain. Leveraged NextJS as the foundation for this application. Currently, the tool enjoys an impressive average of 1000 monthly active users.",
-      "Led the development of an Authentication service utilizing Google’s Firebase databse, enabling content creators to upload their content as NFT collections, facilitating seamless consumption by users.",
-    ],
-    githubLink: "https://mint.niftory.com/",
-    technologies: ["Nextjs", "Framer Motion", "Firebase Database"],
+    //githubLink: "https://github.com/Udbhav8/usersAppFrontend",
+    technologies: ["Figma"],
   },
 ];
 

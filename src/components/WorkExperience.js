@@ -9,34 +9,24 @@ import TextFromSide from "./animateWrappers/TextFromSide";
 
 const workExperiences = [
   {
-    title: "Software Engineer",
-    company: "Niftory",
-    location: "Seattle, WA",
-    description: `Orchestrated a team of three developers to construct a comprehensive automation testing repository encompassing
-    80% of Niftory’s APIs. Employed sharding in our CI environment to significantly decrease test duration from 16
-    minutes to 7 minutes.`,
-    date: "April 2023- Presenet",
-    icon: "/images/niftory.png",
-    link: "https://niftory.com/",
+    title: "Information Technology Advisor",
+    company: "InsureBC",
+    location: "Victoria, BC",
+    description: `I was involved in various IT projects, including server upgrades, implementing new software solutions, and enhancing
+     the company's IT infrastructure. I oversaw software installations and updates, making sure that all employees had access to the necessary applications. 
+     I also managed hardware assets, such as computers, printers, and other peripherals, ensuring that they were properly maintained and replaced when necessary.`,
+    date: "May 2022- Present",
+   // icon: "/images/insurebclogo.png",
+    link: "https://www.insurebc.ca",
   },
   {
-    title: "Full Stack Web Developer",
-    company: "Tradable Bits",
-    location: "Vancouver, BC",
-    description: `Built out data and marketing tools for people in the sports and music industries! Got to build for international music 
-    labels (it's a secret as to which ones :D), the Toronto Raptors, and the Maple Leafs.`,
-    date: "Sep 2022- Present",
-    icon: "/images/tbits.png",
-    link: "https://tradablebits.com/",
-  },
-  {
-    title: "Software Engineer",
-    company: "Niftory",
-    location: "Seattle, WA",
-    description: ` Built out GraphQL APIs allowing other devs to use Niftory's backend workflows.
-      Also built dashboards for admins to manage their Niftory stores and run marketing campaigns using our APIs.`,
-    date: "October 2021- Sep 2022",
-    icon: "/images/niftory.png",
+    title: "BC Patients Surveyor",
+    company: "R.A. Malatest & Associates",
+    location: "Victoria, BC",
+    description: `Conducted detailed surveys of patients following their discharge from BC hospitals, guaranteeing the utmost confidentiality of client data.
+     My ability to efficiently work remotely from home was a key asset, and I actively engaged in regular team meetings to facilitate effective project coordination and communication.`,
+    date: "Jan 2022- May 2022",
+    //icon: "/images/niftory.png",
     link: "https://niftory.com/",
   },
 ];
