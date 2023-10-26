@@ -33,7 +33,7 @@ const projectList = [
       "Designed and built a personal portfolio website using React, HTML/CSS and JavaScript",
       "Used Git to manage and update the code for my website and automated the deployment of the app to the web using netlify with every new commit to the codebase",
     ],
-    githubLink: "https://github.com/Udbhav8/portfolio",
+    //githubLink: "https://github.com/Udbhav8/portfolio",
     technologies: ["HTML/CSS", "JavaScript", "React"],
   },
   {
